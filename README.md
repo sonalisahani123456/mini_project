@@ -29,4 +29,5 @@ Positioning
 Flexbox
 Transitions
 UI design basics
-**Live Demo** - 
+
+**Live Demo** - https://sonalisahani123456.github.io/mini_project/
